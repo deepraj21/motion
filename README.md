@@ -2,7 +2,7 @@
 
 ### 📒 Organize, Collaborate, Create – Motion, Your Digital Notebook.
 
-<img src="https://www.notion.so/cdn-cgi/image/format=webp,width=2048/https://images.ctfassets.net/spoqsaf9291f/4qPZTqxXRCDQiimE4c9xXc/eb57558f50ee6fac68dc04e3b5099c8a/home-hero.png">
+<img src="./public/readme.png">
 
 Motion is a dynamic web application designed to revolutionize note-taking and organization. With seamless Google authentication, users can effortlessly create and customize an unlimited number of pages, complete with personalized titles and cover pages. Featuring nested page structures and intelligent search functionality, Motion empowers users to organize their thoughts with ease. With the flexibility of theme customization and file upload capabilities, users can tailor their experience and enrich their notes with supplementary materials. Motion's user-friendly interface, coupled with real-time database sync, fosters collaboration and ensures that ideas flow effortlessly. Whether you're a student, professional, or creative mind, Motion is your ultimate tool for capturing, organizing, and sharing ideas with the world.
 
