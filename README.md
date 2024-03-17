@@ -89,6 +89,3 @@ npm run dev
 ![Screenshot 2024-03-15 112838](https://github.com/deepraj21/motion/assets/83288891/13a6da35-9059-42b3-9207-e7a719c5aed8)
 
 ![Screenshot 2024-03-15 113038](https://github.com/deepraj21/motion/assets/83288891/5f2b5f01-e6c6-4efd-a02f-56549f1aa8bb)
-
-![Screenshot 2024-03-15 113130](https://github.com/deepraj21/motion/assets/83288891/6b127995-0360-4d7b-9413-1a589126c00f)
-
