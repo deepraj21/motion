@@ -16,7 +16,7 @@ const MarketingPage = () => {
           <Heroes />
         </div>
         <Features />
-        <AnimatedTooltipPreview />
+        {/* <AnimatedTooltipPreview /> */}
       </div>
     </div>
     <Footer />
